@@ -1,11 +1,11 @@
 {
-  "name": "speed-js-team-project",
+  "name": "OlhaZhynkina",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/speed-js-team-project/",
+    "build": "vite build --base=/OlhaZhynkina/",
     "preview": "vite preview"
   },
   "devDependencies": {
