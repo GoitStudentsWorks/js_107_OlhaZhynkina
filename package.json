@@ -1,11 +1,11 @@
 {
-  "name": "OlhaZhynkina!",
+  "name": "js_107_OlhaZhynkina",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/OlhaZhynkina/",
+    "build": "vite build --base=/js_107_OlhaZhynkina/",
     "preview": "vite preview"
   },
   "devDependencies": {
